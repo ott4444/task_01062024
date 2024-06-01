@@ -1,0 +1,32 @@
+{
+    "discount_list": "Liste des Remises",
+    "create_discount": "Créer Remise",
+    "edit_discount": "Modifier Remise",
+    "delete_discount": "Supprimer Remise",
+    "discount_settings": {
+        "discount-general": "TBT:Discount General Settings",
+        "discount_details": "Détails Remise",
+        "amount": "Montant",
+        "status": "Statut"
+    },
+    "customer": "Client",
+    "discount-help": "TBT:Discount Help",
+    "discount_search": {
+        "basic": "Recherche Remise",
+        "discount-advanced": "TBT:Discount Advanced Search",
+        "filter_by": "Filtrer Par"
+    },
+    "sort_by": "Trier Par",
+    "actions": "Actions",
+    "discount-search": "TBT:Discount Search",
+    "discount_date": "Date Remise",
+    "valid_until": "Valide Jusqu'à",
+    "usage": "Utilisation",
+    "discount-new": "TBT:Discount New",
+    "notes": "Notes",
+    "apply": "Appliquer",
+    "print": "Imprimer",
+    "discount-calendar": "TBT:Discount Calendar",
+    "last_applied": "Dernière Application",
+    "discount_history": "Historique Remises"
+}

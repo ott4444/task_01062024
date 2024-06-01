@@ -1,0 +1,34 @@
+{
+    "product_settings": "Paramètres Produits",
+    "categories": "Catégories",
+    "brands": "Marques",
+    "price": "Prix",
+    "product_config": {
+        "product-general": "TBT:Product Config",
+        "stocks": "Stocks",
+        "availability": "Disponibilité",
+        "suppliers": "Fournisseurs"
+    },
+    "promotions": "Promotions",
+    "product-format": "TBT:Product Format",
+    "tags": "Étiquettes",
+    "custom_fields": {
+        "field1": "Champ Personnalisé 1",
+        "custom-field": "TBT:Custom Field",
+        "field2": "Champ Personnalisé 2"
+    },
+    "attributes": "Attributs",
+    "product-help": "TBT:Product Help",
+    "product_search": {
+        "basic": "Recherche Produits",
+        "product-advanced": "TBT:Product Advanced Search",
+        "filter_by": "Filtrer Par"
+    },
+    "sort_by": "Trier Par",
+    "actions": "Actions",
+    "product-search": "TBT:Product Search",
+    "new_product": "Nouveau Produit",
+    "edit_product": "Modifier Produit",
+    "delete_product": "Supprimer Produit",
+    "product-new": "TBT:Product New"
+}

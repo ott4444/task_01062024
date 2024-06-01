@@ -1,0 +1,32 @@
+{
+    "report_list": "Liste des Rapports",
+    "create_report": "Créer Rapport",
+    "edit_report": "Modifier Rapport",
+    "delete_report": "Supprimer Rapport",
+    "report_settings": {
+        "report-general": "TBT:Report General Settings",
+        "report_details": "Détails Rapport",
+        "amount": "Montant",
+        "status": "Statut"
+    },
+    "user": "Utilisateur",
+    "report-help": "TBT:Report Help",
+    "report_search": {
+        "basic": "Recherche Rapport",
+        "report-advanced": "TBT:Report Advanced Search",
+        "filter_by": "Filtrer Par"
+    },
+    "sort_by": "Trier Par",
+    "actions": "Actions",
+    "report-search": "TBT:Report Search",
+    "report_date": "Date Rapport",
+    "due_date": "Échéance",
+    "feedback": "Commentaires",
+    "report-new": "TBT:Report New",
+    "notes": "Notes",
+    "submit": "Soumettre",
+    "print": "Imprimer",
+    "report-calendar": "TBT:Report Calendar",
+    "last_update": "Dernière Mise à Jour",
+    "report_history": "Historique Rapports"
+}

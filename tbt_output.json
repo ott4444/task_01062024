@@ -1,0 +1,145 @@
+{
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\discounts.json": {
+        "discount_settings": {
+            "discount-general": "Discount General Settings"
+        },
+        "": {
+            "discount-help": "Discount Help",
+            "discount-search": "Discount Search",
+            "discount-new": "Discount New",
+            "discount-calendar": "Discount Calendar"
+        },
+        "discount_search": {
+            "discount-advanced": "Discount Advanced Search"
+        }
+    },
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\home.json": {
+        "home_settings": {
+            "home-general": "Home General Settings"
+        },
+        "": {
+            "home-help": "Home Help",
+            "home-logout": "Home Logout",
+            "home-search": "Home Search",
+            "home-new": "Home New"
+        },
+        "home_search": {
+            "home-advanced": "Home Advanced Search"
+        }
+    },
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\invoice-settings.json": {
+        "invoice_config": {
+            "invoice-general": "Invoice Config"
+        },
+        "": {
+            "invoice-format": "Invoice Format",
+            "invoice-design": "Invoice Design",
+            "invoice-logo": "Invoice Logo"
+        },
+        "custom_messages": {
+            "invoice-custom": "Custom Messages"
+        }
+    },
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\invoices.json": {
+        "invoice_settings": {
+            "invoice-general": "Invoice General Settings"
+        },
+        "": {
+            "invoice-help": "Invoice Help",
+            "invoice-search": "Invoice Search",
+            "invoice-new": "Invoice New",
+            "invoice-calendar": "Invoice Calendar"
+        },
+        "invoice_search": {
+            "invoice-advanced": "Invoice Advanced Search"
+        }
+    },
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\navigation.json": {
+        "settings": {
+            "general": "General Settings"
+        },
+        "": {
+            "logout": "Logout",
+            "new": "New"
+        },
+        "search": {
+            "advanced": "Advanced Search",
+            "settings": "Settings"
+        }
+    },
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\products-settings.json": {
+        "product_config": {
+            "product-general": "Product Config"
+        },
+        "": {
+            "product-format": "Product Format",
+            "product-help": "Product Help",
+            "product-search": "Product Search",
+            "product-new": "Product New"
+        },
+        "custom_fields": {
+            "custom-field": "Custom Field"
+        },
+        "product_search": {
+            "product-advanced": "Product Advanced Search"
+        }
+    },
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\products.json": {
+        "product_settings": {
+            "product-general": "Product General Settings"
+        },
+        "": {
+            "product-help": "Product Help",
+            "product-search": "Product Search",
+            "product-new": "Product New",
+            "product-calendar": "Product Calendar"
+        },
+        "product_search": {
+            "product-advanced": "Product Advanced Search"
+        }
+    },
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\reports.json": {
+        "report_settings": {
+            "report-general": "Report General Settings"
+        },
+        "": {
+            "report-help": "Report Help",
+            "report-search": "Report Search",
+            "report-new": "Report New",
+            "report-calendar": "Report Calendar"
+        },
+        "report_search": {
+            "report-advanced": "Report Advanced Search"
+        }
+    },
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\sub-navigation.json": {
+        "sub_settings": {
+            "sub-general": "Sub General Settings"
+        },
+        "": {
+            "sub-logout": "Sub Logout",
+            "sub-settings": "Sub Settings",
+            "sub-new": "Sub New"
+        },
+        "sub_search": {
+            "sub-advanced": "Sub Advanced Search"
+        }
+    },
+    "C:\\Users\\Kasutaja\\PycharmProjects\\pythonProject1\\overall_repeating\\tasks\\website-settings.json": {
+        "website_config": {
+            "website-general": "Website General Settings"
+        },
+        "": {
+            "website-help": "Website Help",
+            "website-search": "Website Search",
+            "website-new": "Website New",
+            "website-calendar": "Website Calendar"
+        },
+        "website_search": {
+            "website-advanced": "Website Advanced Search"
+        },
+        "seo_settings": {
+            "seo-config": "SEO Config"
+        }
+    }
+}

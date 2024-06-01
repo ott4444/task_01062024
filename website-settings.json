@@ -1,0 +1,35 @@
+{
+    "website_settings": "Paramètres du Site",
+    "general": "Général",
+    "branding": "Marque",
+    "layout": "Disposition",
+    "website_config": {
+        "website-general": "TBT:Website General Settings",
+        "colors": "Couleurs",
+        "fonts": "Polices",
+        "logos": "Logos"
+    },
+    "navigation": "Navigation",
+    "website-help": "TBT:Website Help",
+    "website_search": {
+        "basic": "Recherche sur le Site",
+        "website-advanced": "TBT:Website Advanced Search",
+        "filter_by": "Filtrer Par"
+    },
+    "sort_by": "Trier Par",
+    "actions": "Actions",
+    "website-search": "TBT:Website Search",
+    "new_page": "Nouvelle Page",
+    "edit_page": "Modifier Page",
+    "delete_page": "Supprimer Page",
+    "website-new": "TBT:Website New",
+    "seo_settings": {
+        "meta_title": "Titre Meta",
+        "seo-config": "TBT:SEO Config",
+        "meta_description": "Description Meta"
+    },
+    "performance": "Performance",
+    "website-calendar": "TBT:Website Calendar",
+    "last_update": "Dernière Mise à Jour",
+    "website_history": "Historique du Site"
+}

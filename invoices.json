@@ -1,0 +1,32 @@
+{
+    "invoice_list": "Liste des Factures",
+    "create_invoice": "Créer Facture",
+    "edit_invoice": "Modifier Facture",
+    "delete_invoice": "Supprimer Facture",
+    "invoice_settings": {
+        "invoice-general": "TBT:Invoice General Settings",
+        "invoice_details": "Détails Facture",
+        "amount": "Montant",
+        "status": "Statut"
+    },
+    "client": "Client",
+    "invoice-help": "TBT:Invoice Help",
+    "invoice_search": {
+        "basic": "Recherche Facture",
+        "invoice-advanced": "TBT:Invoice Advanced Search",
+        "filter_by": "Filtrer Par"
+    },
+    "sort_by": "Trier Par",
+    "actions": "Actions",
+    "invoice-search": "TBT:Invoice Search",
+    "invoice_date": "Date Facture",
+    "due_date": "Échéance",
+    "payment": "Paiement",
+    "invoice-new": "TBT:Invoice New",
+    "notes": "Notes",
+    "send": "Envoyer",
+    "print": "Imprimer",
+    "invoice-calendar": "TBT:Invoice Calendar",
+    "last_payment": "Dernier Paiement",
+    "invoice_history": "Historique Factures"
+}

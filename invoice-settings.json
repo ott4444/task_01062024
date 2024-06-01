@@ -1,0 +1,30 @@
+{
+    "invoice_settings": "Paramètres Facture",
+    "numbering": "Numérotation",
+    "currency": "Devise",
+    "taxes": "Taxes",
+    "invoice_config": {
+        "invoice-general": "TBT:Invoice Config",
+        "template": "Modèle",
+        "terms": "Conditions",
+        "penalties": "Pénalités"
+    },
+    "discounts": "Remises",
+    "invoice-format": "TBT:Invoice Format",
+    "custom_messages": {
+        "footer": "Footer",
+        "invoice-custom": "TBT:Custom Messages",
+        "header": "Entête",
+        "design": "Design"
+    },
+    "logo": "Logo",
+    "signatures": "Signatures",
+    "invoice-design": "TBT:Invoice Design",
+    "colors": "Couleurs",
+    "fonts": "Polices",
+    "borders": "Bordures",
+    "invoice-logo": "TBT:Invoice Logo",
+    "spacing": "Espacement",
+    "alignment": "Alignement",
+    "styles": "Styles"
+}

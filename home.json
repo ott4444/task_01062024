@@ -1,0 +1,29 @@
+{
+    "welcome": "Bienvenue",
+    "dashboard": "Tableau de bord",
+    "statistics": "Statistiques",
+    "recent_reports": "Derniers Rapports",
+    "home_settings": {
+        "home-general": "TBT:Home General Settings",
+        "tasks": "Tâches",
+        "recent_messages": "Messages Récents",
+        "notifications": "Notifications"
+    },
+    "calendar": "Calendrier",
+    "home-help": "TBT:Home Help",
+    "user_profile": "Profil Utilisateur",
+    "account_settings": "Paramètres Compte",
+    "home_logout": "Déconnexion",
+    "home-logout": "TBT:Home Logout",
+    "home_search": {
+        "basic": "Recherche",
+        "home-advanced": "TBT:Home Advanced Search",
+        "favorites": "Favoris"
+    },
+    "history": "Historique",
+    "home-search": "TBT:Home Search",
+    "new_report": "Nouveau Rapport",
+    "create_task": "Créer Tâche",
+    "view_all": "Voir Tous",
+    "home-new": "TBT:Home New"
+}

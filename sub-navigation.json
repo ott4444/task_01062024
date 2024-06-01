@@ -1,0 +1,30 @@
+{
+    "sub_home": "Sous Accueil",
+    "sub_products": "Sous Produits",
+    "sub_services": "Sous Services",
+    "sub_contact": "Sous Contact",
+    "sub_settings": {
+        "sub-general": "TBT:Sub General Settings",
+        "sub_profile": "Sous Profil",
+        "sub_help": "Sous Aide",
+        "sub_logout": "Sous Déconnexion",
+        "sub_dashboard": "Sous Tableau de bord"
+    },
+    "sub_users": "Sous Utilisateurs",
+    "sub_reports": "Sous Rapports",
+    "sub_parameters": "Sous Paramètres",
+    "sub-logout": "TBT:Sub Logout",
+    "sub_notifications": "Sous Notifications",
+    "sub_messages": "Sous Messages",
+    "sub_search": {
+        "basic": "Sous Recherche",
+        "sub-advanced": "TBT:Sub Advanced Search",
+        "history": "Sous Historique"
+    },
+    "sub_favorites": "Sous Favoris",
+    "sub_history": "Sous Historique",
+    "sub-settings": "TBT:Sub Settings",
+    "sub_statistics": "Sous Statistiques",
+    "sub_calendar": "Sous Calendrier",
+    "sub-new": "TBT:Sub New"
+}

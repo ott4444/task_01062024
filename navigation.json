@@ -1,0 +1,30 @@
+{
+    "home": "Accueil",
+    "products": "Produits",
+    "services": "Services",
+    "contact": "Contact",
+    "settings": {
+        "general": "TBT:General Settings",
+        "profile": "Profil",
+        "help": "Aide",
+        "logout": "Déconnexion",
+        "dashboard": "Tableau de bord"
+    },
+    "users": "Utilisateurs",
+    "reports": "Rapports",
+    "parameters": "Paramètres",
+    "logout": "TBT:Logout",
+    "notifications": "Notifications",
+    "messages": "Messages",
+    "search": {
+        "basic": "Recherche",
+        "advanced": "TBT:Advanced Search",
+        "history": "Historique",
+        "settings": "TBT:Settings"
+    },
+    "favorites": "Favoris",
+    "history": "Historique",
+    "statistics": "Statistiques",
+    "calendar": "Calendrier",
+    "new": "TBT:New"
+}
